@@ -1,0 +1,14 @@
+﻿{
+	"disableAutoUpdate": false,
+	"name": "Timestamps",
+	"category": "client",
+	"description": "Timestamps in chat, if you want to disable timestamping in some particular tab - add \"!\" to it's name.",
+	"author": "Gl0",
+	"options": {
+		"guiName": "Client: Timestamps",
+	        "niceName": "Timestamps"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/"
+	]
+}
