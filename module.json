@@ -2,6 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "Timestamps",
 	"category": "client",
+	"conflicts": ["FPS-Pack"],
 	"description": "Timestamps in chat, if you want to disable timestamping in some particular tab - add \"!\" to it's name.",
 	"author": "Gl0",
 	"options": {
